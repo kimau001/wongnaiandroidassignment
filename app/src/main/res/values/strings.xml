@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WongnaiAndroidAssignment</string>
+    <string name="no_internet">Can\\\'t connect to Internet.</string>
+    <string name="not_found">Not found</string>
+</resources>
